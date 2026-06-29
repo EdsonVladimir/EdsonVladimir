@@ -20,6 +20,10 @@ Currently working as **Senior Backend Developer** at Telio Mobility (ride-sharin
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
+**OS & Infrastructure**
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_CLI-FCC624?style=flat&logo=linux&logoColor=black)
+
 ### 🚀 What I'm building
 
 | Project | Description | Stack |
@@ -46,7 +50,8 @@ This hybrid setup powers both **MediSync** (Claude API integrated into the produ
 
 ### 🐧 Linux & Servers
 
-Daily Linux user — terminal-first workflow with **Neovim + lazy.nvim + LSP** as my primary IDE.
+Daily **Debian** user — terminal-first workflow with **Neovim + lazy.nvim + LSP** as my primary IDE.
+No GUI, no shortcuts — just the terminal and the problem.
 
 **Server-side experience**
 - VPS provisioning & hardening (DigitalOcean, SSH, UFW, fail2ban)
