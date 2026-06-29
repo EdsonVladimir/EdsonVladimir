@@ -28,12 +28,38 @@ Currently working as **Senior Backend Developer** at Telio Mobility (ride-sharin
 | **phalanx** | CLI para gestión de vulnerabilidades con agentes LLM en CI/CD | Go · Semgrep · Trivy · GitHub Actions |
 
 ### 🤖 AI in my workflow
-I use **Claude Code** daily as a development agent — architecture review, scaffolding, and refactoring with my own criteria before integrating.
+
+AI is not a buzzword here — it's embedded at every layer of how I work and build.
+
+**Cloud AI**
+- **Claude** (Anthropic) — my primary development agent via Claude Code: architecture review, scaffolding, refactoring, and critical reasoning before integrating any solution.
+
+**Local AI Stack (self-hosted via Ollama)**
+- 🦙 **Ollama** running on local hardware with GPU acceleration (AMD RX 570 · Vulkan)
+- 🧠 **DeepSeek-Coder** — code completion, code review, and offline pair programming
+- 💬 **Qwen** — reasoning, documentation, and fast local inference
+
+> Running local models keeps sensitive code off the cloud and reduces latency to zero.
+> Claude handles high-complexity reasoning; local models handle the daily grind.
+
+This hybrid setup powers both **MediSync** (Claude API integrated into the product) and **phalanx** (LLM agents for vulnerability triage in CI/CD pipelines).
 
 ### 📚 Currently
 - 🎓 MSc in Cybersecurity & Cyberdefense (UGRM) — thesis on LLM agents for CI/CD vulnerability management
 - 🏗️ Building MediSync SaaS + phalanx CLI
+- 🏢 Co-founder @ **SOGA Systems Solutions** — AI-Driven Software, Built to Scale
 - 📍 La Paz, Bolivia · Open to 100% remote
+
+### 🐧 Linux & Servers
+
+Daily Linux user — terminal-first workflow with **Neovim + lazy.nvim + LSP** as my primary IDE.
+
+**Server-side experience**
+- VPS provisioning & hardening (DigitalOcean, SSH, UFW, fail2ban)
+- Reverse proxy configuration (Nginx / Caddy)
+- Docker & Docker Compose in production
+- CI/CD pipelines with self-hosted runners
+- Local inference server (Ollama exposed on LAN with GPU acceleration)
 
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-edson--sosa-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/edson-sosa)
