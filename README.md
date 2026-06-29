@@ -24,7 +24,7 @@ Currently working as **Senior Backend Developer** at Telio Mobility (ride-sharin
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **MediSync** | SaaS médico para clínicas bolivianas | Go · Angular · Flutter · PostgreSQL · Claude API |
+| **MediSync** | SaaS médico para clínicas | Go · Angular · Flutter · PostgreSQL |
 | **phalanx** | CLI para gestión de vulnerabilidades con agentes LLM en CI/CD | Go · Semgrep · Trivy · GitHub Actions |
 
 ### 🤖 AI in my workflow
