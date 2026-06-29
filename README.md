@@ -58,7 +58,6 @@ Daily Linux user — terminal-first workflow with **Neovim + lazy.nvim + LSP** a
 ### 📚 Currently
 - 🎓 MSc in Cybersecurity & Cyberdefense (UGRM) — thesis on LLM agents for CI/CD vulnerability management
 - 🏗️ Building MediSync SaaS + phalanx CLI
-- 🏢 Co-founder @ **SOGA Systems Solutions** — AI-Driven Software, Built to Scale
 - 📍 La Paz, Bolivia · Open to 100% remote
 
 ### 📫 Contact
