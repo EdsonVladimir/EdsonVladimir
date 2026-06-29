@@ -38,7 +38,7 @@ Co-founder @ **SOGA Systems Solutions** — *AI-Driven Software, Built to Scale*
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **MediSync** | SaaS médico multi-tenant para clínicas | Go · Angular · Flutter · PostgreSQL · Claude API |
+| **MediSync** | SaaS médico multi-tenant para clínicas | Go · Angular · Flutter · PostgreSQL |
 | **phalanx** | CLI para gestión de vulnerabilidades con agentes LLM en CI/CD | Go · Semgrep · Trivy · GitHub Actions |
 
 ---
