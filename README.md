@@ -1,8 +1,7 @@
 ## Hi, I'm Edson Sosa 👋
 
 **Senior Full Stack Engineer** with 9+ years building critical systems in production.  
-Currently working as **Senior Backend Developer** at Telio Mobility (ride-sharing platform).  
-Co-founder @ **SOGA Systems Solutions** — *AI-Driven Software, Built to Scale*
+Currently working as **Senior Backend Developer** at Telio Mobility (ride-sharing platform).
 
 ---
 
@@ -82,7 +81,6 @@ No GUI, no shortcuts — just the terminal and the problem.
 
 - 🎓 MSc in Cybersecurity & Cyberdefense (FICCT-UAGRM) — thesis: *LLM agents for vulnerability management in CI/CD pipelines*
 - 🏗️ Building **MediSync** SaaS + **phalanx** CLI
-- 🏢 Co-founding **SOGA Systems Solutions** — AI-Driven Software, Built to Scale
 - 📍 La Paz, Bolivia · Open to 100% remote
 
 ---
