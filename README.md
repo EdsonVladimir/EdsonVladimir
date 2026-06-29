@@ -44,12 +44,6 @@ AI is not a buzzword here — it's embedded at every layer of how I work and bui
 
 This hybrid setup powers both **MediSync** (Claude API integrated into the product) and **phalanx** (LLM agents for vulnerability triage in CI/CD pipelines).
 
-### 📚 Currently
-- 🎓 MSc in Cybersecurity & Cyberdefense (UGRM) — thesis on LLM agents for CI/CD vulnerability management
-- 🏗️ Building MediSync SaaS + phalanx CLI
-- 🏢 Co-founder @ **SOGA Systems Solutions** — AI-Driven Software, Built to Scale
-- 📍 La Paz, Bolivia · Open to 100% remote
-
 ### 🐧 Linux & Servers
 
 Daily Linux user — terminal-first workflow with **Neovim + lazy.nvim + LSP** as my primary IDE.
@@ -60,6 +54,12 @@ Daily Linux user — terminal-first workflow with **Neovim + lazy.nvim + LSP** a
 - Docker & Docker Compose in production
 - CI/CD pipelines with self-hosted runners
 - Local inference server (Ollama exposed on LAN with GPU acceleration)
+
+### 📚 Currently
+- 🎓 MSc in Cybersecurity & Cyberdefense (UGRM) — thesis on LLM agents for CI/CD vulnerability management
+- 🏗️ Building MediSync SaaS + phalanx CLI
+- 🏢 Co-founder @ **SOGA Systems Solutions** — AI-Driven Software, Built to Scale
+- 📍 La Paz, Bolivia · Open to 100% remote
 
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-edson--sosa-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/edson-sosa)
