@@ -33,15 +33,6 @@ Currently working as **Senior Backend Developer** at Telio Mobility (ride-sharin
 
 ---
 
-### 🚀 What I'm building
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **MediSync** | SaaS médico multi-tenant para clínicas | Go · Angular · Flutter · PostgreSQL |
-| **phalanx** | CLI para gestión de vulnerabilidades con agentes LLM en CI/CD | Go · Semgrep · Trivy · GitHub Actions |
-
----
-
 ### 🤖 AI in my workflow
 
 AI is not a buzzword here — it's embedded at every layer of how I work and build.
